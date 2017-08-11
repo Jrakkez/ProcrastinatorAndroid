@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recycler_tasks" type="id"/>
+    <item name="txt_description" type="id"/>
+    <item name="txt_deadline" type="id"/>
+    <item name="txt_name" type="id"/>
+    <item name="edit_name" type="id"/>
+    <item name="edit_description" type="id"/>
+    <item name="picker_deadline" type="id"/>
+    <item name="edit_deadline" type="id"/>
+</resources>
